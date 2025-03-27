@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+opencv-python
+torch
+numpy
+speechrecognition
+pyttsx3
+gtts
+google-generativeai
+pandas
+Pillow

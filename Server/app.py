@@ -14,7 +14,7 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins for React frontend
 
 # Load Model
-MODEL_PATH = "/home/pranav/Desktop/SignBuddyProject./SignBuddyProject/best (3).pt"
+MODEL_PATH = "../best (3).pt"
 CLASS_MAP = {0: "Help", 1: "Strong", 2: "Good", 3: "Stop", 4: "You"}
 
 detected_words = []  # Store detected words

@@ -9,3 +9,4 @@ gtts
 google-generativeai
 pandas
 Pillow
+gunicorn

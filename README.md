@@ -1,6 +1,8 @@
 # SignBuddy
 
 ![SignBuddy](image.png)
+
+
 ![Demo](signToText.jpeg)
 
 # Steps to start the project

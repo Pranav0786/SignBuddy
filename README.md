@@ -1,6 +1,7 @@
 # SignBuddy
 
 ![SignBuddy](image.png)
+![Demo](signToText.jpeg)
 
 # Steps to start the project
 (1) Clone the repo in your local system
@@ -19,14 +20,13 @@ source venv/bin/activate
 
 (3) Install all requirements and run 
 ```
-npm i
 pip install -r requirements.txt
-npm run dev
+python app.py
 ```
 
 (4) Set up the frontend and run
 ```
 cd Signbuddy
 npm i
-npm start
+npm run dev
 ```
